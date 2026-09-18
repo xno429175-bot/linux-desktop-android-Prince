@@ -12,17 +12,7 @@ This guide uses three main applications:
 
 # 📱 Download These Apps
 
-## 1. TuxSpan
 
-[⬇️ Download TuxSpan](https://github.com/techydruid/TuxSpan/releases/latest)
-
-## 2. Termux
-
-[⬇️ Download Termux](https://github.com/termux/termux-app/releases/latest)
-
-## 3. Termux:X11
-
-[⬇️ Download Termux:X11](https://github.com/termux/termux-x11/releases/tag/nightly)
 
 ---
 
