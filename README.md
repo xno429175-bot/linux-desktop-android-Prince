@@ -12,7 +12,8 @@ This guide uses three main applications:
 
 # 📱 Download These Apps
 
-
+⬇️ **Download them from:**  
+**Releases → Latest → Assets**
 
 ---
 
