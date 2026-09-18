@@ -1,13 +1,54 @@
-Tutorial for running a Linux desktop environment on Android using TuxSpan, Termux, and Termux:X11.
-📚 Apps needed
-TuxSpan — for setting up the Linux environment.
-Termux — for installing and running Linux/terminal commands.
-Termux:X11 — for displaying the Linux desktop GUI.
+# 🐧 Linux Desktop on Android
 
+Run a Linux desktop environment on your Android phone without root.
 
-🐧 Linux Desktop on Android
-This tutorial explains how to run a Linux desktop environment on an Android phone using:
-TuxSpan
-Termux
-Termux:X11
-I'll add the complete installation and setup steps in this repository.
+This guide uses three main applications:
+
+- 📱 TuxSpan
+- 💻 Termux
+- 🖥️ Termux:X11
+
+---
+
+# 📱 Download These Apps
+
+## 1. TuxSpan
+
+[⬇️ Download TuxSpan](https://github.com/techydruid/TuxSpan/releases/latest)
+
+## 2. Termux
+
+[⬇️ Download Termux](https://github.com/termux/termux-app/releases/latest)
+
+## 3. Termux:X11
+
+[⬇️ Download Termux:X11](https://github.com/termux/termux-x11/releases/tag/nightly)
+
+---
+
+# 📱 Requirements
+
+- Android 8.0 or newer
+- Termux
+- Termux:X11
+- TuxSpan
+- Sufficient free storage
+- Recommended: 4 GB+ RAM
+
+---
+
+# ⚙️ Installation
+
+Follow the tutorial below to install and run the Linux desktop environment on Android.
+
+## 🎥 Installation Tutorial
+
+**[▶️ Watch the Tutorial](YOUR_VIDEO_LINK_HERE)**
+
+---
+
+# 🐧 Run Linux Desktop
+
+After completing the installation tutorial, you can start your Linux desktop environment.
+
+---
